@@ -14,7 +14,7 @@
 
 In the study of electrical circuits and electronics, controlling high-power loads safely is a major challenge. The **Electromechanical Relay** is a fundamental component designed to solve this by acting as an electrically operated switch. It allows a low-power control signal (such as a low DC voltage from a battery or microcontroller) to make or break an electrical connection in a separate, high-power circuit without any direct electrical contact between the two.
 
-This project was built and documented as coursework for the **Applied Physics (GSL-114)** module during the 1st Semester of the BS Computer Science program, demonstrating core physics principles of electromagnetism, magnetic induction, and circuit design.
+This project was built and documented as coursework for the **Applied Physics** module, demonstrating core physics principles of electromagnetism, magnetic induction, and circuit design.
 
 ---
 
@@ -27,12 +27,7 @@ The following diagrams illustrate the internal architecture, pin configurations,
   <img src="screenshots/screenshot_2.jpeg" width="550" alt="Relay Internal Layout" />
 </p>
 
-### 2. Standard Circuit Representation (Schematic Symbol)
-<p align="center">
-  <img src="screenshots/screenshot_1.png" width="380" alt="Circuit Schematic Symbol" />
-</p>
-
-### 3. Dynamic Switching States (Animated Operational Cycle)
+### 2. Dynamic Switching States (Animated Operational Cycle)
 <p align="center">
   <img src="screenshots/screenshot_4.gif" width="380" alt="Relay Switching Animation" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="screenshots/screenshot_3.png" width="220" alt="Armature Contact Details" />
@@ -86,20 +81,45 @@ Relays are incredibly versatile components with limitless applications across in
 
 ---
 
-## 👨‍🔬 Project Team & Authorship
+## 📄 License
 
-Developed by **Group 1-A** (BS Computer Science, Semester 1):
+```
+MIT License
 
-- **Anas Ahmed** — (02-134212-042)
-- **Ahmed Usmani** — (02-134212-045)
-- **Zaheer Ahmed** — (02-134212-040)
+Copyright (c) Relay---2026 AnasQ2003
 
-*Course Teacher: **M. Umer** — Applied Physics (GSL-114)*
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+```
+
+---
+
+## 👨‍💻 Author
+
+**Anas Ahmed Qureshi.** — [@AnasQ2003](https://github.com/AnasQ2003)
 
 ---
 
 <div align="center">
-  <p>Built with ❤️ for Applied Physics Lab</p>
+  <p>Built with ❤️ by <strong>Anas</strong></p>
+  
+ <div align="center">
 
-  **⭐ If this lab project was helpful, please star the repository!**
+Made with 💧 and a lot of ☕
+
+**⭐ If you found this useful, please star the repository!**
+
+*Stay hydrated. Stay healthy.*
+
 </div>
