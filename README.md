@@ -1,12 +1,16 @@
+<div align="center">
+
 # 🔌 Electromechanical Relay — Applied Physics Project
 
 > An educational laboratory physics project demonstrating the design, construction, and working principles of an electromechanical relay switch to control high-power output circuits using low-power control signals.
 
 🎬 **Watch the Project Demonstration Video:** [Google Drive Demo Video Link](https://drive.google.com/file/d/11yGBjK9GA3yML8GgL3aDrRB5wL8pyU30/view?usp=drive_link)
 
-[![Course](https://img.shields.io/badge/Course-Applied_Physics_GSL--114-blue.svg?style=flat-square)](#)
+[![Course](https://img.shields.io/badge/Course-Applied_Physics-blue.svg?style=flat-square)](#)
 [![Field](https://img.shields.io/badge/Field-Electromagnetism-darkgreen.svg?style=flat-square)](#)
 [![Department](https://img.shields.io/badge/Department-Computer_Science-red.svg?style=flat-square)](#)
+
+</div>
 
 ---
 
@@ -86,7 +90,7 @@ Relays are incredibly versatile components with limitless applications across in
 ```
 MIT License
 
-Copyright (c) Relay---2026 AnasQ2003
+Copyright (c) Relay --- 2026 AnasQ2003
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -112,14 +116,9 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ---
 
 <div align="center">
-  <p>Built with ❤️ by <strong>Anas</strong></p>
   
- <div align="center">
-
-Made with 💧 and a lot of ☕
+  <p>Built with ❤️ by <strong>Anas</strong></p>
 
 **⭐ If you found this useful, please star the repository!**
-
-*Stay hydrated. Stay healthy.*
 
 </div>
